@@ -1,0 +1,36 @@
+.team .row {
+  width: 935px;
+  margin: 0 auto;
+}
+.team .text-block .col-xs-6 {
+  width: 460px;
+  height: 480px;
+  background-color: #fff;
+  text-align: left;
+}
+.team .text-block .col-xs-6:first-child {
+  margin-right: 15px;
+}
+.team .text-block .col-xs-12 {
+  height: 355px;
+  background-color: #fff;
+  text-align: left;
+  margin-top: 20px;
+}
+.team .text-block .block {
+  padding: 15px;
+}
+#owl-demo .item {
+  background: #42bdc2;
+  padding: 30px 0px;
+  margin: 5px;
+  color: #FFF;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  text-align: center;
+}
+#owl-demo .item a img {
+  position: relative;
+  left: 40px;
+}

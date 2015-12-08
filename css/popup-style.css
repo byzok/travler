@@ -1,0 +1,197 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.bg-aqua {
+  margin-left: 18px;
+  margin-right: 18px;
+  margin-top: 18px;
+  background-image: url(http://avatars.yandex.net/get-dps/1e9a527fa81d2abf168ce8987698862f/normal);
+}
+.wrapper {
+  width: 960px;
+  padding-bottom: 33px;
+}
+.left {
+  margin-left: 136px;
+}
+img {
+  vertical-align: middle;
+}
+h1 {
+  padding-top: 70px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  font-size: 36px;
+  text-align: left;
+}
+.promo {
+  width: 55%;
+  font-size: 45px;
+  color: white;
+  margin: 20px 0 15px;
+  padding: 0;
+}
+.button {
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  text-align: center;
+}
+.submit {
+  margin-top: 60px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 37px;
+  padding-right: 37px;
+  background: #FFDD14;
+  margin-bottom: 10px;
+}
+.version {
+  margin-left: 40px;
+  font-family: verdana;
+  font-size: 16px;
+  color: #000;
+  text-decoration: none;
+  border-bottom: 1px dashed #51BBD5;
+}
+.more {
+  display: inline-block;
+  margin-top: 10px;
+  color: white;
+  text-align: center;
+  margin-left: 5px;
+  font-family: Arial;
+}
+.right {
+  display: inline-block;
+  float: right;
+  padding-left: 156px;
+  width: 526px;
+  height: 500px;
+  margin-top: -402px;
+}
+.bg-grey {
+  background: #E6E7E8;
+  margin-left: 18px;
+  margin-right: 18px;
+  margin-bottom: 18px;
+}
+.devaice {
+  margin-left: 136px;
+  margin-top: 0px;
+}
+.devaice a {
+  margin-top: 23px;
+  display: inline-block;
+}
+.devaice span {
+  display: inline-block;
+  margin-left: 60px;
+  /*перемещение текста относительно положение спрайта*/
+  margin-top: 10px;
+}
+.comp {
+  float: left;
+  margin-bottom: 10px;
+  /*отступ от низа монитора*/
+  background-image: url(http://yandex.st/browser3-www/_/Go-d_0B2H3wcElLgNvIlg7Um8fk.png);
+  width: 49px;
+  height: 43px;
+  background-position: 0px 0px;
+  color: blue;
+  text-decoration: none;
+}
+.comp:hover {
+  color: red;
+  /* меняет цвет ссылки при наведении курсора */
+  text-decoration: none;
+  background-position: 0px -89px;
+  /*смена цвета при наведении курсора*/
+}
+.smart {
+  margin-left: 80px;
+  margin-bottom: 10px;
+  /*отступ от низа монитора*/
+  background-image: url(http://yandex.st/browser3-www/_/rXCEio6IM7TdGly8LyDkAPHJvA8.png);
+  width: 28px;
+  height: 43px;
+  background-position: 0px 0px;
+  color: blue;
+  text-decoration: none;
+}
+.smart:hover {
+  color: red;
+  background-position: 0px 44px;
+  /*смена цвета при наведении курсора*/
+  text-decoration: none;
+}
+.planshet {
+  float: right;
+  margin-top: 23px;
+  margin-bottom: 10px;
+  /*отступ от низа спрайта*/
+  background-image: url(http://yandex.st/browser3-www/_/fZq-Ggh-EIJD3almUyIHdC0QEpw.png);
+  width: 49px;
+  height: 43px;
+  background-position: 0px 0px;
+  color: blue;
+  text-decoration: none;
+}
+.planshet:hover {
+  color: red;
+  text-decoration: none;
+  background-position: 0px 44px;
+  /*смена цвета при наведении курсора*/
+}
+.social {
+  margin-top: -8px;
+  margin-left: 136px;
+}
+.social a {
+  text-decoration: none;
+  color: white;
+  font-family: algerian;
+}
+.vk {
+  background: #48729E;
+  width: 54px;
+  height: 18px;
+}
+.fb {
+  width: 54px;
+  height: 18px;
+  background: #30487A;
+}
+.tw {
+  width: 54px;
+  height: 18px;
+  background: #00ACED;
+}
+.odn {
+  width: 18px;
+  height: 18px;
+  background: #FF9F4D;
+}
+.gplus {
+  width: 57px;
+  height: 18px;
+  background: #C25234;
+}
+.copirating {
+  margin-top: -23px;
+  float: right;
+}
+.copirating a {
+  text-decoration: none;
+  color: #1e78cd;
+}
+.copirating a:hover {
+  color: red;
+}
+.copirating span {
+  color: #999;
+}
