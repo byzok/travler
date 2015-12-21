@@ -1,0 +1,31 @@
+.map {
+  background-color: #2d2d2d !important;
+  color: #fff;
+}
+.map h1 {
+  margin-top: 50px;
+}
+.map .line {
+  margin-top: 40px;
+}
+.map .text-block {
+  overflow: hidden;
+}
+.map .text-box {
+  margin-bottom: 108px;
+}
+.map img {
+  margin: auto;
+}
+.team .col-xs-3 {
+  color: #7b7b7b;
+  background-image: url(../pict/img/frame.png);
+  background-repeat: no-repeat;
+  background-position: 10px -10px;
+}
+.team h3 {
+  font-size: 18px;
+}
+.team h4 {
+  font-size: 14px;
+}

@@ -48,3 +48,24 @@
 .container.footer .contacts a:hover {
   color: #fff;
 }
+.container.footer .links-info {
+  color: red;
+  font-size: 12px;
+  line-height: 41px;
+}
+.container.footer .links-info a {
+  margin-right: 20px;
+  color: #fff;
+}
+.container.footer .links-info a:hover {
+  color: #fff;
+}
+.container.footer .text {
+  font-size: 11px;
+  color: #7e7e7e;
+  line-height: 21px;
+}
+.container.footer .col-xs-12 {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}

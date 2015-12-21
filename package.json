@@ -1,0 +1,31 @@
+{
+  "name": "1",
+  "version": "1.0.1",
+  "description": "miu",
+  "main": "point",
+  "scripts": {
+    "test": "one"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/byzok/travler"
+  },
+  "keywords": [
+    "byzok"
+  ],
+  "author": "byzok",
+  "license": "0",
+  "bugs": {
+    "url": "https://github.com/byzok/travler/issues"
+  },
+  "homepage": "https://github.com/byzok/travler",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat-css": "^2.2.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-minify-css": "^1.2.2",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "opn": "^3.0.3"
+  }
+}
